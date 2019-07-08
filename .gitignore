@@ -1,4 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
+.vscode
+.classpath
+.project
+.settings
+.factorypath
 spring-mvc-init.iml
 /target
